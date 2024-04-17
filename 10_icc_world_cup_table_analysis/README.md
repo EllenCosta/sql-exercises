@@ -1,4 +1,4 @@
-> Construct a summary table that shows the total number of matches played, the number of wins and the number of losses for each team based on the match outcomes provided.
+- Construct a summary table that shows the total number of matches played, the number of wins and the number of losses for each team based on the match outcomes provided.
 
 # ICC_WORLD_CUP TABLE
 |TEAM_1|TEAM_2|WINNER|

@@ -1,4 +1,4 @@
-> Display the average billing amount for each customer between 2019 to 2021, assume the value of the billing amount being $0 if nothing is billed for the particular year of that customer.
+- Display the average billing amount for each customer between 2019 to 2021, assume the value of the billing amount being $0 if nothing is billed for the particular year of that customer.
 
 # BILLING TABLE
 |CUSTOMER_ID|CUSTOMER_NAME|BILLING_ID|BILLING_CREATION_DATE|BILLED_AMOUNT|

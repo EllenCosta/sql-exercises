@@ -1,6 +1,6 @@
-> Write a sql query to find the winner in each group.
-The winner in each group is the player who scored the maximum total of points within the group.
-In case of tie, the lowest player_id wins.
+- Write a sql query to find the winner in each group.
+- The winner in each group is the player who scored the maximum total of points within the group.
+- In case of tie, the lowest player_id wins.
 
 # PLAYERS TABLE
 |PLAYER_ID|GROUP_ID|

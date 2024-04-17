@@ -1,5 +1,5 @@
-> Write a SQL query to identify skills, list the top two most proficient employees for each skill.
-Create a table showing skills ,average proficiency, along with the names and proficiency levels of the top two employees in those skills.
+- Write a SQL query to identify skills, list the top two most proficient employees for each skill.
+- Create a table showing skills ,average proficiency, along with the names and proficiency levels of the top two employees in those skills.
 
 # EMPLOYEES TABLE
 |ID |NAME          |SKILL             |PROFICIENCY|

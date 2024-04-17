@@ -1,4 +1,4 @@
-> The goal is to identify top 3 employees with the most frequent late arrivals (after 9:00 AM) and early departures (before 5:00 PM).
+- The goal is to identify top 3 employees with the most frequent late arrivals (after 9:00 AM) and early departures (before 5:00 PM).
 
 # ATTENDANCE TABLE
 |EMPLOYEE_ID|EMPLOYEE_NAME|ATTENDANCE_DATE|CLOCK_IN_TIME|CLOCK_OUT_TIME|

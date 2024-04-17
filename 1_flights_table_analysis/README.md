@@ -1,5 +1,5 @@
-> Write a SQL query to identify airlines with the most frequent delays and categorize the common reasons for these delays. 
-Display the airline name, count of delayed flights, and the most common delay reason.
+- Write a SQL query to identify airlines with the most frequent delays and categorize the common reasons for these delays. 
+- Display the airline name, count of delayed flights, and the most common delay reason.
 
 # FLIGHTS TABLE
 |AIRLINE_NAME|FLIGHT_NUMBER|SCHEDULED_DEPARTURE|ACTUAL_DEPARTURE|DELAY_REASON       |

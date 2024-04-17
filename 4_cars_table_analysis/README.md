@@ -1,4 +1,4 @@
-> Show full table with distinct records
+- Show full table with distinct records
 
 # CARS TABLE
 |MODEL_ID|MODEL_NAME|COLOR|BRAND  |

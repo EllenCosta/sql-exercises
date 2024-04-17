@@ -1,7 +1,7 @@
-> You are working with the human resources database of a company.
-Your task is to create a report that lists all job positions along with the names of employees holding these positions. 
-For positions that are not fully occupied, like where the number of employees is less than the total posts available, the report should indicate these as 'vacant'.  
-Write a SQL query to effectively match employees to their respective positions and identify any vacancies in each position.
+- You are working with the human resources database of a company.
+- Your task is to create a report that lists all job positions along with the names of employees holding these positions. 
+- For positions that are not fully occupied, like where the number of employees is less than the total posts available, the report should indicate these as 'vacant'.  
+- Write a SQL query to effectively match employees to their respective positions and identify any vacancies in each position.
 
 # POSITIONS TABLE
 |POSITION_ID|TITLE            |GROUPS|LEVELS|PAYSCALE|TOTALPOST|

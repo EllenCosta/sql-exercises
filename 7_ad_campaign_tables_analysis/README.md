@@ -1,10 +1,10 @@
-> As part of HackerAd's advertising system analytics, they need a list of the customers who have the most failures and successes in ad campaigns.
-• There should be exactly two rows that contain type, customer, campaign, total.
-• type contains 'success' in the first row and 'failure' in the second. These relate to `events.status`.
-• customer is the `customers.first_name` and `customers.last_name`, separated by a single space.
-• campaign is a comma-separated list of `campaigns.name` that are associated with the customer, ordered ascending.
-• total is the number of associated events.
-• Report only 2 customers, the two with the most successful and the most failing campaigns.
+- As part of HackerAd's advertising system analytics, they need a list of the customers who have the most failures and successes in ad campaigns.
+- There should be exactly two rows that contain type, customer, campaign, total.
+- type contains 'success' in the first row and 'failure' in the second. These relate to `events.status`.
+- customer is the `customers.first_name` and `customers.last_name`, separated by a single space.
+- campaign is a comma-separated list of `campaigns.name` that are associated with the customer, ordered ascending.
+- total is the number of associated events.
+- Report only 2 customers, the two with the most successful and the most failing campaigns.
 
 # CUSTOMERS TABLE
 |CUSTOMER_ID|FIRST_NAME|LAST_NAME |

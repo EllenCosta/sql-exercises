@@ -1,4 +1,4 @@
-> write a sql query to find personID, name, number of friends, sum of friends of person who have friends with total score greater than 100.
+- write a sql query to find personID, name, number of friends, sum of friends of person who have friends with total score greater than 100.
 
 # PERSON TABLE
 |PERSON_ID|NAME |EMAIL                |SCORE|

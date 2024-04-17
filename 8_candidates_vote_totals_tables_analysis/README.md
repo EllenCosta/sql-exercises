@@ -1,9 +1,9 @@
-> As part of HackerPolls election exit poll analytics, a team needs a list of candidates and their top 3 vote totals and the states where they occurred.
-• The result should be in the following format: __candidate_name, 1st_place, 2nd_place, 3rd_place__.
-• Concatenate the candidates first and last names with a space between them.
-• 1st_place, 2nd_place, 3rd_place are comma-separated 
-• US state names and numbers of votes in a format "__%statename% (%votes%)__", for example, "__New York (23)__".
-• Results should be sorted __ascending__ by candidate_name.
+- As part of HackerPolls election exit poll analytics, a team needs a list of candidates and their top 3 vote totals and the states where they occurred.
+- The result should be in the following format: __candidate_name, 1st_place, 2nd_place, 3rd_place__.
+- Concatenate the candidates first and last names with a space between them.
+- 1st_place, 2nd_place, 3rd_place are comma-separated 
+- US state names and numbers of votes in a format "__%statename% (%votes%)__", for example, "__New York (23)__".
+- Results should be sorted __ascending__ by candidate_name.
 
 # CANDIDATES TABLE
 |CANDIDATE_ID|FIRST_NAME|LAST_NAME|

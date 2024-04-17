@@ -1,5 +1,5 @@
-> Create a summary table for each individual based on their floor visits and resource usage. 
-The table should include the most visited floor, the total number of visits, and a list of all distinct resources used by each individual.
+- Create a summary table for each individual based on their floor visits and resource usage. 
+- The table should include the most visited floor, the total number of visits, and a list of all distinct resources used by each individual.
 
 # ENTRIES TABLE
 |NAME|ADDRESS  |EMAIL       |FLOOR|RESOURCES|
